@@ -1,3 +1,16 @@
 body {
     background-color: gray;
 }
+.ingre {
+    background-color: orange;
+}
+.steps {
+    background-color: yellow;
+}
+.home {
+    background-color: lightgreen;
+}
+#ttl{
+    margin-bottom: -20px;
+    padding: 5px;
+}
